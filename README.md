@@ -1,4 +1,4 @@
-# statingdemo
-this is my first reoository
+# startingdemo
+this is my first repository
 <br>
 author-dharani
